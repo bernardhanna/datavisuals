@@ -1,0 +1,186 @@
+[
+  {
+    "question": "Treemaps over Sunburst Graphs",
+    "answer": "Treemaps can display hierarchical data more efficiently in terms of space, as they use a compact, rectangular layout that can make better use of the available display area."
+  },
+  {
+    "question": "Sunburst Graphs over Treemaps: ",
+    "answer": "Sunburst graphs offer a radial layout that can be more intuitive for understanding hierarchical relationships and proportions at a glance, especially when dealing with layered data like file systems or organizational structures."
+  },
+  {
+    "question": "What is change blindness? ",
+    "answer": "Change blindness is a perceptual phenomenon where significant changes in a visual scene go unnoticed by the observer, often due to distractions, interruptions, or shifts in attention. This illustrates the limitations of human visual perception and attention, emphasizing that we only perceive and remember a fraction of the visual stimuli around us."
+  },
+  {
+    "question": "position and size are often used for their strong ordinal and proportional qualities",
+    "answer": "position and size are often used for their strong ordinal and proportional qualities"
+  },
+  {
+    "question": "color and shape are useful for selective and associative tasks",
+    "answer": "color and shape are useful for selective and associative tasks"
+  },
+  {
+    "question": "All eight visual variables can be used effectively in 2D plots",
+    "answer": "All eight visual variables—position can be used effectively in 2D plots"
+  },
+  {
+    "question": "position and size are often used for their strong ordinal and proportional qualities",
+    "answer": "position and size are often used for their strong ordinal and proportional qualities"
+  },
+  {
+    "question": "position and size are often used for their strong ordinal and proportional qualities",
+    "answer": "color and shape are useful for selective and associative tasks"
+  },
+  {
+    "question": "However, their effectiveness depends on the data's nature and the specific visual tasks, such as selective, associative, ordinal, and quantitative (proportional) representations. ",
+    "answer": "However, their effectiveness depends on the data's nature and the specific visual tasks, such as selective, associative, ordinal, and quantitative (proportional) representations "
+  },
+  {
+    "question": "For instance, position and size are often used for their strong ordinal and proportional qualities, while color and shape are useful for selective and associative tasks.",
+    "answer": "For instance, position and size are often used for their strong ordinal and proportional qualities, while color and shape are useful for selective and associative tasks."
+  },
+  {
+    "question": "Position is the most important of the variables",
+    "answer": "Position is the most important of the variables"
+  },
+  {
+    "question": "Mark refers to any symbol, shape, or marking that indicates a specific point or datum.",
+    "answer": "Mark refers to any symbol, shape, or marking that indicates a specific point or datum."
+  },
+  {
+    "question": "Size is the first graphic visual. Determines how big or small the mark is",
+    "answer": "Size is the first graphic visual. Determines how big or small the mark is"
+  },
+  {
+    "question": "Brightness is used to further enhance the mark",
+    "answer": "Brightness is used to further enhance the mark"
+  },
+  {
+    "question": "Colour is used for classifying marks into groups or clusters",
+    "answer": "Colour is used for classifying marks into groups or clusters"
+  },
+  {
+    "question": "Orientation is the direction that a mark points, used to classify data based on the alignment of asymmetric shapes.",
+    "answer": "Orientation is the direction that a mark points, used to classify data based on the alignment of asymmetric shapes."
+  },
+  {
+    "question": "Orientation is also used to classify data based on the alignment of asymmetric shapes.",
+    "answer": "Orientation is also used to classify data based on the alignment of asymmetric shapes"
+  },
+  {
+    "question": "Orientation is the direction that a mark points",
+    "answer": "Orientation is the direction that a mark points"
+  },
+  {
+    "question": "Texture refers to the surface quality of a mark, used to distinguish between different data categories by varying the pattern or grain",
+    "answer": "Texture refers to the surface quality of a mark, used to distinguish between different data categories by varying the pattern or grain"
+  },
+  {
+    "question": "Texture refers to the surface quality of a mark",
+    "answer": "Texture refers to the surface quality of a mark"
+  },
+  {
+    "question": "Texture is used to distinguish between different data categories by varying the pattern or grain",
+    "answer": "Texture is used to distinguish between different data categories by varying the pattern or grain"
+  },
+  {
+    "question": "Motion is the least useful from a static graph but very useful in animations",
+    "answer": "Motion is the least useful from a static graph but very useful in animations"
+  },
+  {
+    "question": "REPEAT X5: The height of a tree is measured by the longest path of edges from its root node to any leaf",
+    "answer": "The height of a tree is measured by the longest path of edges from its root node to any leaf"
+  },
+  {
+    "question": "REPEAT X5: Root is the top node in a tree. its starting point",
+    "answer": " Root is the top node in a tree. its starting point"
+  },
+  {
+    "question": "Root __ ___ ____ __ __ ____ its starting point",
+    "answer": "The top node in a tree. its starting point"
+  },
+  {
+    "question": "Define the following terms associated with mathematical trees :Root",
+    "answer": " Root – The top node in a tree; its starting point"
+  },
+  {
+    "question": "REPEAT X5: Child is a node directly connected to another node that is closer to the Root.",
+    "answer": "Child is a node directly connected to another node that is closer to the Root."
+  },
+  {
+    "question": "Child –  __ ___ ____ __ __ ____ that is closer to the Root.",
+    "answer": "A node directly connected to another node"
+  },
+  {
+    "question": "REPEAT X5: Parent is the opposite of a child.",
+    "answer": "Parent is the opposite of a child."
+  },
+  {
+    "question": "REPEAT X5: Leaf is a node with no children.",
+    "answer": "Leaf is a node with no children."
+  },
+  {
+    "question": "REPEAT X5: The height of a tree is measured by the longest path of edges from its root node to any leaf",
+    "answer": "The height of a tree is measured by the longest path of edges from its root node to any leaf"
+  },
+  {
+    "question": "The height of a tree is measured by ___ ___________from its root node to any leaf",
+    "answer": "the longest path of edges"
+  },
+  {
+    "question": "The height of a tree is measured by the longest path of edges _____________________",
+    "answer": "from its root node to any leaf"
+  },
+  {
+    "question": "REPEAT X5: The height of a tree is measured by the longest path of edges from its root node to any leaf",
+    "answer": "The height of a tree is measured by the longest path of edges from its root node to any leaf"
+  },
+  {
+    "question": "Generic answer to Sunburst vs Treemap",
+    "answer": "It depends on the data structure and the specific insights you want to highlight"
+  },
+  {
+    "question": "What are the the eight visual variables?",
+    "answer": "Position, mark, size, brightness, colour, orientation, texture, and motion"
+  },
+  {
+    "question": "Position is the most important of the variables",
+    "answer": "Position is the most important of the variables"
+  },
+  {
+    "question": "Mark refers to any symbol, shape, or marking that indicates a specific point or datum.",
+    "answer": "Mark refers to any symbol, shape, or marking that indicates a specific point or datum."
+  },
+  {
+    "question": "Size is the first graphic visual. Determines how big or small the mark is",
+    "answer": "Size is the first graphic visual. Determines how big or small the mark is"
+  },
+  {
+    "question": "Brightness is used to further enhance the mark",
+    "answer": "Brightness is used to further enhance the mark"
+  },
+  {
+    "question": "Colour is used for classifying marks into groups or clusters",
+    "answer": "Colour is used for classifying marks into groups or clusters"
+  },
+  {
+    "question": "Orientation is the direction that a mark points, used to classify data based on the alignment of asymmetric shapes.",
+    "answer": "Orientation is the direction that a mark points, used to classify data based on the alignment of asymmetric shapes."
+  },
+  {
+    "question": "Orientation is the direction that a mark points",
+    "answer": "Orientation is the direction that a mark points"
+  },
+  {
+    "question": "Orientation is also used to classify data based on the alignment of asymmetric shapes.",
+    "answer": "Orientation is also used to classify data based on the alignment of asymmetric shapes"
+  },
+  {
+    "question": "Texture refers to the surface quality of a mark, used to distinguish between different data categories by varying the pattern or grain",
+    "answer": "Texture refers to the surface quality of a mark, used to distinguish between different data categories by varying the pattern or grain"
+  },
+  {
+    "question": "Motion is the least useful from a static graph but very useful in animations",
+    "answer": "Motion is the least useful from a static graph but very useful in animations"
+  }
+]
